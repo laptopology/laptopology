@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laptopology
 - 👀 I’m interested in Home Automation
-- 🌱 I’m currently learning Home Assistnat
+- 🌱 I’m currently learning Home Assistant
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
